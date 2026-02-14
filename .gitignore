@@ -1,0 +1,9 @@
+# IDE folders
+.idea/
+*.iml
+
+# GitHub folder
+.github/
+
+# Java build output
+out/
